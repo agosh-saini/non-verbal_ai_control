@@ -1,0 +1,64 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+.pytest_cache/
+.coverage
+htmlcov/
+.env
+.venv
+venv/
+ENV/
+
+# Node.js / NPM
+node_modules/
+npm-debug.log
+yarn-error.log
+.next/
+dist/
+.nuxt/
+.vuepress/dist
+.serverless/
+.dynamodb/
+
+# Arduino
+*.elf
+*.hex
+*.ino.cpp
+*.ino.h
+/build/
+
+# Mac OS
+.DS_Store
+
+# IDEs & Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# AI / Agents
+.agent/
+.cursorrules
+.gemini/
+.gemini_history
+.claude
+claude.md
